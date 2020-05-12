@@ -1,8 +1,8 @@
 # Penalty-Throw-Predicition-handball-
-prediction of penalty shot in handball by CNN/n
-ハンドボールのペナルティースローおけるシュートコースを予測するCNN分類器です。シュートを打つ直前の画像にコースを表示します。
 
-使い方
+## ハンドボールのペナルティースローおけるシュートコースを予測するCNN分類器です。シュートを打つ直前の画像にコースを表示します。
+
+## 使い方
 1.以下のdataダウンロード
 https://d.kuku.lu/48277d9a1f
 
@@ -15,12 +15,12 @@ https://d.kuku.lu/6854d70016
 
 5.python predict.py を実行する
 
-環境
+## 環境
 Tensorflow 2.1.0
 Keras 2.3.1
 python 3.6.6
 
-追記
+## 追記
 './'にあるleft,rightフォルダにjpg画像をいれ、
 python resize.py left
 python resize.py right
