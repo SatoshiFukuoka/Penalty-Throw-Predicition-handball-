@@ -1,4 +1,4 @@
-# Penalty-Throw-Predicition-handball-
+# Handball-Penalty-Throw-Predicition
 
 ## ハンドボールのペナルティースローおけるシュートコースを予測するCNN分類器です。シュートを打つ直前の画像にコースを表示します。
 
