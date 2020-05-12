@@ -1,5 +1,5 @@
 # Penalty-Throw-Predicition-handball-
-prediction of penalty shot in handball by CNN
+prediction of penalty shot in handball by CNN/n
 ハンドボールのペナルティースローおけるシュートコースを予測するCNN分類器です。シュートを打つ直前の画像にコースを表示します。
 
 使い方
