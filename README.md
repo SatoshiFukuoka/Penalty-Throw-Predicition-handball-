@@ -30,3 +30,8 @@ python resize.py right
 と実行することで
 
 './data'にあるleft,rightフォルダにリサイズされたjpg画像が入る
+
+## Thanks to swdev1202
+以下のコードを参考にさせていただきました。
+
+https://github.com/swdev1202/penalty-shootout-prediction
