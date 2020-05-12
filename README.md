@@ -21,8 +21,12 @@ Keras 2.3.1
 python 3.6.6
 
 ## 追記
-'./'にあるleft,rightフォルダにjpg画像をいれ、
+'./'にあるleft,rightフォルダにjpg画像をいれ
+
 python resize.py left
+
 python resize.py right
+
 と実行することで
+
 './data'にあるleft,rightフォルダにリサイズされたjpg画像が入る
